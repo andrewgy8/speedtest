@@ -1,23 +1,23 @@
 {
     "twitter": {
-        "twitterToken": "",
-        "twitterConsumerKey": "",
-        "twitterTokenSecret": "",
-        "twitterConsumerSecret": ""
+        "twitterToken": "822798030848004097-wATfMrikztt2uleqs3fy4lG2Iw1cpOr",
+        "twitterConsumerKey": "GIEAsBPydmkAWSzJ36f7OPpyn",
+        "twitterTokenSecret": "U2E73Wpfzz0xkd4DaFxEGfcpnJJxn99oDzuWCtywK7Ilm",
+        "twitterConsumerSecret": "uecszNAiyORfRXsgpCoQv8xkCPswdYKRPcKfcctS1BOZWrAcvb"
     },
-    "tweetTo": "",
+    "tweetTo": "@vodafone_es",
     "internetSpeed": "50",
     "tweetThresholds": {
         "5": [
-            "Hey {tweetTo} I'm paying for {internetSpeed}Mb/s but getting only {downloadResult} Mb/s?!? Shame.",
-            "Oi! {tweetTo} $100+/month for {internetSpeed}Mbit/s and I only get {downloadResult} Mbit/s? How does that seem fair?"
+            "Hey! {tweetTo} pago por {internetSpeed}Mb/s pero solo tengo {downloadResult} Mb/s?!? ¡Que lástima!",
+            "Oye! {tweetTo} €35+/mes por {internetSpeed}Mbit/s y solo tengo {downloadResult} Mbit/s? Cómo se parece justo?"
         ],
         "12.5": [
-            "Uhh {tweetTo} for $100+/month I expect better than {downloadResult}Mbit/s when I'm paying for {internetSpeed}Mbit/s. Fix your network!",
-            "Hey {tweetTo} why am I only getting {downloadResult}Mb/s when I pay for {internetSpeed}Mb/s? $100+/month for this??"
+            "Perdon {tweetTo} por €35+/mes, quiero mas que {downloadResult}Mbit/s cuando pago por {internetSpeed}Mbit/s. Arregla tú network!",
+            "Hola {tweetTo} porque tengo {downloadResult}Mb/s cuando pago por {internetSpeed}Mb/s? €35+/mes por esta??"
         ],
         "25": [
-            "Well {tweetTo} I guess {downloadResult}Mb/s is better than nothing, still not worth $100/mnth when I expect {internetSpeed}Mb/s"
+            "Pues {tweetTo} supongo que {downloadResult}Mb/s es lo suficientemente bueno, todavía no vale €35/mes cuando expecto {internetSpeed}Mb/s"
         ]
     },
     "log": {
